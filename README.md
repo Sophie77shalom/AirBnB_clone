@@ -4,3 +4,7 @@ A command interpreter to manipulate data without a visual interface, like a shel
 A website (front-end) with static and dynamic functionalities
 A comprehensive database to manage the backend functionalities
 An API that provides a communication interface between the front and backend of the system.
+
+#Authors 
+Sophie77shalom <sophyjeptoo000@gmail.com>
+Nebiyou Yemam Ebrahim
